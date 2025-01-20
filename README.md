@@ -4,6 +4,10 @@
 GoQuant is a high-performance trading application designed for algorithmic trading. It includes features such as WebSocket-based market data streaming, order placement, and advanced latency benchmarking. The application is written in C++ and leverages `libcurl` for HTTP communication, WebSocket++ for WebSocket server functionalities, and JSON parsing libraries for data handling.
 
 ---
+## Project Demo Video
+
+[Click here to watch the demo video](https://drive.google.com/file/d/1xAQGZBiiRBJi4ocfxNWVLuEfbpQgDxwy/view?usp=sharing)
+
 
 ## Features
 
