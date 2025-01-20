@@ -83,4 +83,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-## Contact For any questions or feedback, please reach out to [roxstar811307@gmail.com].
+## Contact For any questions or feedback, please reach out to [Nikhil Raj / roxstar811307@gmail.com / https://www.linkedin.com/in/nikhil811307/].
