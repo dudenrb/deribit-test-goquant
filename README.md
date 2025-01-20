@@ -75,11 +75,15 @@ g++ main.cpp -o main -I"/path/to/include/directory" -lcurl
 ## File Structure
 ```
 GoQuant/
-├── main.cpp              # Entry point of the application
-├── include/              # Header files (WebSocket++, JSON, custom headers)
-├── lib/                  # External libraries (e.g., libcurl)
-├── README.md             # Documentation
-└── examples/             # Example usage scripts
+├── include/                # Header files (WebSocket++, JSON, custom headers)
+├── .gitignore              # Git ignore file for excluding unnecessary files
+├── CMakeLists.txt          # CMake configuration for building the project
+├── Deliverable.pdf         # Detailed project deliverables and analysis
+├── README.md               # Documentation for the repository
+├── json.hpp                # JSON parser for handling market and order data
+├── main                    # Compiled executable file
+├── main.cpp                # Main source code file
+
 ```
 
 ## License
